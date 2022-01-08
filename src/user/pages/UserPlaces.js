@@ -12,7 +12,7 @@ const DUMMY_PLACES = [
     address: "20 W. 34th Street, New York, NY 10001",
     location: {
       lat: 40.74843,
-      long: -73.9856,
+      lng: -73.9856,
     },
     creator: "u1",
   },
