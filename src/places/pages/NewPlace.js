@@ -5,7 +5,7 @@ import "./NewPlace.css";
 const NewPlace = () => {
   return (
     <form className="place-form">
-      <Input type="text" label="Title" element="input" />
+      <Input type="text" label="Title" element="input" validators={[]} />
       <button type="submit">Submit</button>
     </form>
   );
